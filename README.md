@@ -1,32 +1,32 @@
 # project2
-this is code path web102 project 2 
+this is code path web102 project 3 
 # Web Development Project 2 - Learning Farsi for kids
 
 Submitted by: Narges Salari
 
 This web app: this app will help kids learn Farsi language
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ x] Header/title describing the theme is displayed
-- [ x] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ x] There are at least 10 cards displayed for 10 different events 
-  - [ x] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ x] Each card should include some information about the event or resource
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+- [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+- [x] There are at least 10 cards displayed for 10 different events 
+- [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
+- [x] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
 
 - [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
+- [ ] All cards have buttons or links in addition to text
 - [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
-  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
+- [ ] Web app is shown in a mobile format
+- [x] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
 
 The following **additional** features are implemented:
 
@@ -36,19 +36,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/AHaW1Fn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/Bf52z3B.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://imgur.com/AHaW1Fn
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with Apple screen shout 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://imgur.com/a/Bf52z3B
 
-## Notes
+GIF created with Apple screen shout and uploaded in imgur.com 
 
-Describe any challenges encountered while building the app.
+
 
 ## License
 

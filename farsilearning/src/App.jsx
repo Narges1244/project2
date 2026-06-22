@@ -2,6 +2,8 @@ import './App.css';
 import {useState} from 'react';
 import backgroundImage from "./assets/farsi-background.png"
 import Fruit from './components/Fruit';
+import Animal from './components/Animal';
+import Color from './components/Color';
 const App =() =>{
 
 
@@ -14,6 +16,12 @@ const App =() =>{
       </div>
       <div className="flashcards">
         <Fruit /> 
+      </div>
+      <div className="flashcards">
+        <Animal/>
+      </div>
+      <div className="flashcards">
+      <Color/>
       </div>
 
     </div>

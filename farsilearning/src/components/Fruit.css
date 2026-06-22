@@ -77,3 +77,86 @@
     position:center;
 
   } 
+  /* --- Add these rules to your existing Fruit.css --- */
+
+.guess-box {
+  margin-top: 1rem;
+  text-align: center;
+  margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #f4a6a6;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    position:center;
+
+  
+}
+
+.guess-input-row {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 6px;
+}
+
+.guess-input-row input {
+  padding: 6px 10px;
+  font-size: 16px;
+  direction: rtl;
+}
+
+.feedback {
+  margin-top: 8px;
+  font-weight: bold;
+}
+
+.feedback-correct {
+  color: green;
+}
+
+.feedback-wrong {
+  color: crimson;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 1rem;
+}
+
+.prev-button
+ {
+  margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #f4a6a6;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    position:center;
+
+}
+
+.prev-button:disabled,
+.next-button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+.controls-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.guess-box {
+  text-align: center;
+}
