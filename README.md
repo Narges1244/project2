@@ -36,11 +36,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/Bf52z3B.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/5lpCUmu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://imgur.com/a/Bf52z3B
 
-GIF created with Apple screen shout and uploaded in imgur.com 
+GIF created with Apple screen shot and uploaded in imgur.com 
 
 
 
